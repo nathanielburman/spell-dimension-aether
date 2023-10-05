@@ -1,5 +1,6 @@
 # spell-dimension-aether
-Describes the aether dimension and aspects of the physical properties that are present.
+TLDR:
+Aether is like an organic blob over the light. Describes the aether dimension and aspects of the physical properties that are present.
 
 AEther Light Relative Dimension:
 
